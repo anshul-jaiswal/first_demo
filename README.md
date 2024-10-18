@@ -1,4 +1,5 @@
 # first_demo
-this is my first Git Repository.
+
+<b>Author</b>-Anshul Jaiswal
 <br>
-Author-Anshul Jaiswal
+this is my first Git Repository.
