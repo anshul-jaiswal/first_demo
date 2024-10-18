@@ -1,5 +1,5 @@
 # first_demo
 
-<u><b>Author</b>-Anshul Jaiswal</U>
+<b>Author</b>-<u>Anshul Jaiswal</U>
 <br>
 this is my first Git Repository.
